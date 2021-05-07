@@ -1,0 +1,22 @@
+.pic-container {
+  width: 520px;
+  height: 400px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.form-row {
+  margin: auto;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.card{
+  background-color: rgb(253, 252, 252);
+}
+.card-header {
+  margin-bottom: 20px;
+}
